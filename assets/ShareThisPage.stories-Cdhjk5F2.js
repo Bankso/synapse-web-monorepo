@@ -1,3 +1,0 @@
-import{S as o}from"./ShareThisPage-C0LmRDUS.js";import"./iframe-YNORiRmR.js";import"./index-r8ZA1smB.js";import"./Close-Bti9lGnZ.js";import"./CopyToClipboardIcon-CueWx-Dn.js";import"./index-Dy0fAFKr.js";import"./index-Bqgf_cuw.js";import"./useCreateShortUrl-r4EdZi11.js";const g={title:"UI/ShareThisPage",component:o,parameters:{}},r={args:{}};var e,t,a;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:`{
-  args: {}
-}`,...(a=(t=r.parameters)==null?void 0:t.docs)==null?void 0:a.source}}};const l=["Default"];export{r as Default,l as __namedExportsOrder,g as default};
